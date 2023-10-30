@@ -10,4 +10,4 @@ Key Responsibilities
 - Created data visualizations using Tableau in the form of interactive dashboards.
 
 Tableau public: https://public.tableau.com/views/E-commerceCustomerChurnRateDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-  source: Kaggle
+source: Kaggle
